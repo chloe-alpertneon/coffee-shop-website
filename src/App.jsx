@@ -6,7 +6,7 @@ import AppBanner from './components/AppBanner/AppBanner'
 import Footer from './components/Footer/Footer'
 const App = () => {
   return (
-    <div className="overflow-x-hidden">
+    <div className="">
       <Hero/>
       <Services/>
       <WhereToBuy/>
